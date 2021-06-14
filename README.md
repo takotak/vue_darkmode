@@ -1,4 +1,8 @@
-# vue_darkmode
+# Vue Darkmode
+
+Dark mode theme for Vue js app
+
+![alt text] (./public/darkmode.png)
 
 ## Project setup
 ```
