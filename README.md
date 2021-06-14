@@ -2,7 +2,7 @@
 
 Dark mode theme for Vue js app
 
-![alt text] (./public/darkmode.png)
+![alt text](./public/darkmode.png)
 
 ## Project setup
 ```
